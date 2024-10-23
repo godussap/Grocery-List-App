@@ -6,7 +6,7 @@ Table of Contents
 =================
 
   * [Dockerfile.vim](#dockerfilevim)
-  * ![](Screenshot2024-10-23140257.png)
+  * [screenshot]![](Screenshot2024-10-23140257.png)
   * [Installation](#installation)
         * [OR using Pathogen:](#or-using-pathogen)
         * [OR using Vundle:](#or-using-vundle)
