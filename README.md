@@ -11,7 +11,7 @@ Table of Contents
 =================
 
   * [Dockerfile.vim](#dockerfilevim)
-  * ![screenshot](sceenshots/grocery.png)
+  * ![screenshot](screenshots/grocery.png)
   * [Installation](#installation)
         * [OR using Pathogen:](#or-using-pathogen)
         * [OR using Vundle:](#or-using-vundle)
