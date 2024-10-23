@@ -11,7 +11,7 @@ Table of Contents
 
 
 ###  How it works
-This app is created, to add quantity and the type of grocery you were going to get as many as you like. If you need to delete an item,
+This app was created to add quantity and the type of grocery you were going to get as many as you like. If you need to delete an item,
 there is a button for it as well. 
 
 
